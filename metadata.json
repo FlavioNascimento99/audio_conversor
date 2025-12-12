@@ -1,0 +1,5 @@
+{
+  "name": "Audio to Text Converter",
+  "description": "A minimalist application to convert audio files into text using AI. Provides a simple interface for uploading an audio file and viewing its transcription.",
+  "requestFramePermissions": []
+}
